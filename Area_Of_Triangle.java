@@ -8,7 +8,6 @@ class Area_Of_Triangle {
     {
         double h = 10;
         double b = 5;
-        System.out.println("Area of the triangle: "
-                           + area(h, b));
+        System.out.println("Area of the triangle: " + area(h, b));
     }
 }
